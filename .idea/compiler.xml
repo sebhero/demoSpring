@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="demoSpring" />
+        <module name="javafxSpringClient" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demoSpring" target="1.8" />
+      <module name="javafxSpringClient" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

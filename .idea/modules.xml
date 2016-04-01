@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/demoSpring.iml" filepath="$PROJECT_DIR$/demoSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javafxSpringClient/javafxSpringClient.iml" filepath="$PROJECT_DIR$/javafxSpringClient/javafxSpringClient.iml" />
     </modules>
   </component>
 </project>
